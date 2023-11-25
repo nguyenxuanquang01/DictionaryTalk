@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DictionaryTalk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c72b205db90fbfd5ca5450639997d8a5865902c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DictionaryTalk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DictionaryTalk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

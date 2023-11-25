@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\QuangNguyen\\Documents\\project_C#\\Dictioinary\\DictionaryTalk\\DictionaryTalk\\DictionaryTalk.csproj",
+      "projectUniqueName": "C:\\Users\\QuangNguyen\\Documents\\project_C#\\Dictionary\\DictionaryTalk\\DictionaryTalk\\DictionaryTalk.csproj",
       "projectName": "DictionaryTalk",
-      "projectPath": "C:\\Users\\QuangNguyen\\Documents\\project_C#\\Dictioinary\\DictionaryTalk\\DictionaryTalk\\DictionaryTalk.csproj",
+      "projectPath": "C:\\Users\\QuangNguyen\\Documents\\project_C#\\Dictionary\\DictionaryTalk\\DictionaryTalk\\DictionaryTalk.csproj",
       "packagesPath": "C:\\Users\\QuangNguyen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\QuangNguyen\\Documents\\project_C#\\Dictioinary\\DictionaryTalk\\DictionaryTalk\\obj\\",
+      "outputPath": "C:\\Users\\QuangNguyen\\Documents\\project_C#\\Dictionary\\DictionaryTalk\\DictionaryTalk\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\QuangNguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
