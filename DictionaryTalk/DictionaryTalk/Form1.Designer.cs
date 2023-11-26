@@ -59,6 +59,7 @@
             btnSpeakEnglish.Size = new Size(33, 29);
             btnSpeakEnglish.TabIndex = 1;
             btnSpeakEnglish.UseVisualStyleBackColor = true;
+            btnSpeakEnglish.Click += btnSpeakEnglish_Click;
             // 
             // cbGetWord
             // 
@@ -68,6 +69,7 @@
             cbGetWord.Name = "cbGetWord";
             cbGetWord.Size = new Size(151, 388);
             cbGetWord.TabIndex = 0;
+            cbGetWord.SelectedIndexChanged += cbGetWord_SelectedIndexChanged;
             // 
             // panel2
             // 
@@ -89,6 +91,7 @@
             button2.Size = new Size(33, 29);
             button2.TabIndex = 3;
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button1
             // 
@@ -99,6 +102,7 @@
             button1.Size = new Size(33, 29);
             button1.TabIndex = 2;
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // txbExplainDetail
             // 
